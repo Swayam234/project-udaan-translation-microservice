@@ -516,6 +516,6 @@ The SQLite database stores one row per translated text:
 
 ---
 
-##  License
+# Author 
+Swayam Karapurkar 
 
-MIT — use freely, contribute back!
